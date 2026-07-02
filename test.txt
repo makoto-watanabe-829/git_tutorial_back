@@ -1,3 +1,5 @@
 チュートリアルになります
 git status
 test git @diff
+
+git commit --amend　です
